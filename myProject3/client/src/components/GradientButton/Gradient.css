@@ -1,0 +1,29 @@
+#grad-try{
+    height: 320px;
+    width: 100%;
+   display:center;
+   justify-content: center;
+   margin-top: 30px;
+
+}
+
+#grad-btn{
+    background-color: aliceblue;
+    opacity: .5;
+    height: 40px;
+    width: 150px;
+    border:none;
+    border-radius: 5px;
+    margin-left: 135px;
+    margin-top: 130px;
+}
+
+#output{
+  
+    background-color: aliceblue;
+    opacity: .5;
+    height: 40px;
+    width:200px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,17 @@
+.footer {
+    background: #333;
+    color: white;
+    height: 80px;
+  justify-content:center; 
+    padding: 0;
+    margin: 0;
+    width: 100%;    
+}
+
+#cs-logo{
+    width: 60px;
+    height: 60px;
+    margin-left: 46%;
+    margin-top: 10px;
+    
+}

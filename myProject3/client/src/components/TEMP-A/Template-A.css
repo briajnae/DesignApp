@@ -1,0 +1,41 @@
+.temp-a-jumbo{
+    background-color: aqua;
+    height:850px;
+    padding: 5%;
+}
+
+li{
+    background-color: antiquewhite;
+    text-align: center; 
+    text-decoration: none;
+   margin-left: 80%;
+    position: fixed;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#section-1{
+    margin-top: -3%;
+    background-color: beige;
+    height: 850px;
+    padding: 5%;
+}
+
+#section-2{
+    background-color: rgb(242, 220, 245);
+    height: 850px;
+    padding: 5%;
+}
+
+#section-3{
+    background-color: rgb(220, 227, 245);
+    height: 850px;
+    padding: 5%;
+}
+
+.is-current{
+    color: white;
+}
+
